@@ -3,7 +3,7 @@
   "version": "6.23.0-BETA",
   "description": "An ATC simulator in HTML5",
   "engines": {
-    "node": "11.3.0",
+    "node": "12.1.0",
     "npm": "6.4.0"
   },
   "scripts": {
